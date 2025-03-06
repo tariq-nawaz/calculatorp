@@ -6,4 +6,8 @@ int result=a/b;
 int a=12,b=123;
 int result=a+b;
 addition
+ conflict-branch2
 int=a+b;
+
+int =a+b;
+ main
