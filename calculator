@@ -1,2 +1,4 @@
 console.WriteLine("Tariq Nawaz,M Arshad");
 Console.WriteLine("57,72");
+int a=122,b=223;
+int result =a-b;
