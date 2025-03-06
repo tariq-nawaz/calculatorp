@@ -1,8 +1,17 @@
 console.WriteLine("Tariq Nawaz,M Arshad");
 Console.WriteLine("57,72");
+subtraction
+ multiplication
+int a=123,b=223;
+int result=a*b;
+
+int a=122,b=223;
+int result =a-b;
+subtraction
 division
 int a=123,b=1234;
 int result=a/b;
 int a=12,b=123;
 int result=a+b;
+addition
 addition
